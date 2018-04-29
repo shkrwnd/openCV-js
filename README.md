@@ -7,8 +7,8 @@ The steps taken were as instructed on [this repo](https://github.com/opencv/open
 
 
 
-'''
-<!DOCTYPE html>
+
+```<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -44,7 +44,6 @@ function onOpenCvReady() {
 </script>
 <script async src="opencv.js" onload="onOpenCvReady();" type="text/javascript"></script>
 </body>
-</html>
-'''
+</html>```
 
 
