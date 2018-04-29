@@ -5,9 +5,11 @@ The steps taken were as instructed on [this repo](https://github.com/opencv/open
 
 ## To see the working ,follow the steps
 
-```git clone https://github.com/shkrwnd/openCV-js.git
 ```
-```cd openCV-js
+git clone https://github.com/shkrwnd/openCV-js.git
+```
+```
+cd openCV-js
 ```
 
 
