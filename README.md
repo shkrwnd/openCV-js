@@ -3,7 +3,12 @@ This contains compiled javascript version of OpenCV with default CMAKE flags
 
 The steps taken were as instructed on [this repo](https://github.com/opencv/opencv/tree/master/platforms/js) 
 
-## To see the working , just be a  lamb and follow the steps
+## To see the working ,follow the steps
+
+```git clone https://github.com/shkrwnd/openCV-js.git
+```
+```cd openCV-js
+```
 
 
 
