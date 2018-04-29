@@ -11,7 +11,10 @@ git clone https://github.com/shkrwnd/openCV-js.git
 ```
 cd openCV-js
 ```
-
+Just open index.html in any supported browser 
+If first line of web-page shows ```OpenCV.js is ready``` that means it is working properly.
+Then just choose any image and it will show that image in new canvas <dir> block.
+###index.html
 
 
 
